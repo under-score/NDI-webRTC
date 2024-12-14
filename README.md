@@ -1,4 +1,4 @@
-A python script that cocverts a NDI video stream to WebRTC
+A python script that converts a NDI video stream to WebRTC
 
 Runs on Mac under Sequoia 15.1
 
