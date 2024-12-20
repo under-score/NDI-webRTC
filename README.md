@@ -1,6 +1,8 @@
 A proof of principle python script that converts a NDI video stream to WebRTC
 
-Runs on Mac under Sequoia 15.1
+Video only
+
+Needs MacOS, tested under Sequoia 15.1
 
 Needs Python 3.8
 
